@@ -1,0 +1,51 @@
+.main-window {
+    background-color: #0c0c0c;
+}
+
+.titlebar {
+    background-color: black;
+    padding: 4px 0px;
+}
+
+.close-button {
+    color: gray;
+    background-color: transparent;
+
+    padding: 0px 4px;
+    margin: 10px 20px;
+    margin-right: 10px;
+    border-radius: 20px;
+
+    transition: 0.3s background-color, 0.3s color;
+}
+
+.close-button:hover {
+    color: white;
+    background-color: red;
+}
+
+.title-label {
+    color: white;
+    margin: 10px;
+}
+
+.submit-button {
+    background-color: tomato;
+    color: white;
+
+    margin: 10px 40px;
+    padding: 7px 20px;
+    border: 2px dashed transparent;
+    border-radius: 30px;
+}
+
+.labeled-entry {
+    color: white;
+    margin: 10px 40px;
+}
+
+.entry {
+    margin-left: 10px;
+    background-color: rgba(255, 255, 255, 0.05);
+    padding: 4px 20px;
+}

@@ -1,0 +1,96 @@
+.status-bar{
+    background-color: blueviolet;
+}
+
+.first-row{
+    background-color: #1a1a1a;
+}
+
+.left-bar{
+    background-color: #000000;
+}
+
+.explorer, .parsed{
+    background-color: #0e0e0e;
+}
+
+.close-button {
+    color: gray;
+    background-color: transparent;
+
+    min-height: 20px;
+    min-width: 20px;
+
+    padding: 0px 4px;
+    margin: 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+
+    transition: 0.3s background-color, 0.3s color;
+}
+
+.close-button:hover {
+    color: white;
+    background-color: red;
+}
+
+.workspace{
+    background-color: transparent;
+    padding: 10px 30px;
+}
+
+.parsed{
+    padding: 10px 30px;
+}
+
+.workspace, .workspace>text, .workspace text, .workspace *, .workspace>*{
+	color: #ffffff;
+	font-size: 14px;
+}
+
+.explorer-heading{
+    font-size: 16px;
+    padding: 10px 0px;
+    margin: 0px 20px;
+    border-bottom: 2px dashed tomato;
+}
+
+.explorer-item{
+    background-color: transparent;
+    color: white;
+
+    padding: 10px 0px;
+    margin: 10px;
+    border-radius: 20px;
+
+    transition: 0.3s background-color;
+}
+
+.explorer-item:hover{
+    background-color: #1a1a1a;
+}
+
+.left-bar-btn{
+    background-color: transparent;
+    color: white;
+    border: 0px;
+    padding: 10px 0px;
+
+    transition: 0.3s background-color;
+}
+
+.left-bar-btn:hover{
+    background-color: #0e0e0e;
+}
+
+.status-bar-item{
+    padding: 0px 10px;
+}
+
+.labeled-status-bar-entries{
+    margin-left: 20px;
+}
+
+.status-bar-entries{
+    margin-left: 5px;
+}
