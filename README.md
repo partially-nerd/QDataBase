@@ -1,5 +1,5 @@
 # QDataBase
-A file handling service for _**Linux**_ that allows for the conversion between a custom .fs file to a Python dictionaries, and vice-versa.
+A file handling service for _**Linux**_ that allows for the conversion between a custom .fs file to a Python dictionaries, and vice-versa. Reduce your headaches caused by improper json formatting, and let your mind roam in .fs. No errors due to lacking commas, no fear of quotations.
 
 QDataBase (QDB for short) uses the Python3 bindings of GTK4 for its interface, and provides syntax highlighting, live conversion to Python dictionaries, and setting of keys via an easy syntax
 
