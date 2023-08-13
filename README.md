@@ -23,7 +23,7 @@ _By Default,_
 _Username: `Admin`_
 _Passphrase: `Troy8848$`_
 
-Once logged in, you'll be asked to select a database folder, which, once selected, you'll be taken to the main interface
+Once logged in, you'll be asked to select a database folder (try it out with the `students.d` folder), which, once selected, you'll be taken to the main interface
 
 In the sidebar, serially, you can
 - Close the window
