@@ -13,6 +13,7 @@ QDataBase (QDB for short) uses the Python3 bindings of GTK4 for its interface, a
 Install dependencies with `pip3 install python-dotenv passlib munch`
 
 ## Interface
+![interface](https://github.com/partially-nerd/QDataBase/assets/108736691/ea6dad75-e9de-4146-8b2e-fa4d41f5d0f5)
 
 
 ## Launching the service
