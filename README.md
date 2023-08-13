@@ -51,6 +51,8 @@ Set the name of the prefect of rose 10, by entering `sections.rose.classPrefect`
 
 Backup `Grade 10.fs` by clicking the copy button in the left-bar
 
+Finalize all edits to the `Grade 10.fs` file by clicking the save button in the left-bar. All deletes and permanent and occur without the need to finalize. Only edits are temporary and require finalization
+
 ## .FS File Structure
 ```fs
 {
