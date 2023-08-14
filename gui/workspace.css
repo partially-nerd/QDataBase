@@ -15,23 +15,18 @@
 }
 
 .close-button {
-    color: gray;
-    background-color: transparent;
+    color: white;
+    background-color: red;
 
-    min-height: 20px;
-    min-width: 20px;
-
-    padding: 0px 4px;
-    margin: 10px;
-    margin-right: 10px;
-    border-radius: 20px;
+    padding: 6px 4px;
+    border-radius: 4px 4px 0px 0px;
 
     transition: 0.3s background-color, 0.3s color;
 }
 
 .close-button:hover {
     color: white;
-    background-color: red;
+    background-color: tomato;
 }
 
 .workspace{
